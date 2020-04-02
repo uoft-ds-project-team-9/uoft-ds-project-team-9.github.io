@@ -7,4 +7,4 @@ Correlations with loan status
 To find the relation between loan status veriaty variables such as gender, age, and education.
 
 ## Dataset
-kaggle.com/zhijinzhai/loandata
+https://www.kaggle.com/zhijinzhai/loandata
